@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="left" alt="kubanac95's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kubanac95&show_icons=true&hide_border=true" />
+
 <!--
 **kubanac95/kubanac95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
