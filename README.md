@@ -1,4 +1,4 @@
-### Hi there3 👋
+### Hi there 👋
 
 https://stackoverflow.com/users/7784769/aleksandar-nikolic
 
