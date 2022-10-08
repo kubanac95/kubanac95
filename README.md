@@ -24,6 +24,7 @@ Even after working hours, I tend to improve my skills by trying out new technolo
 <div>
 
 ## :mailbox: Contact
+  
 <div align='left'>
 
   I would be glad to hear from you. Please feel free to contact me using one of the methods below.
