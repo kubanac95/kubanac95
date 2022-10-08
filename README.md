@@ -10,7 +10,7 @@ Even after working hours, I tend to improve my skills by trying out new technolo
 
 ## :telescope: I'm currently working on
 
-- Bulding a [platform](https://www.autopretraga.rs/) for searching used cars 
+- Building a [platform](https://www.autopretraga.rs/) for searching used cars 
 - Buliding a [platform](https://obavestime.rs/) that informs you about new search results from some of your favourite websites
 
 ## :bar_chart: GitHub Stats
