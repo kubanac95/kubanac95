@@ -1,5 +1,7 @@
 # Hi there, 👋 I'm `Aleksandar Nikolić`
 
+## :point_right: About me
+
 First and foremost, I love coding. I have been obsessed with the idea of using software to solve real-world problems. Software engineering is a never-ending puzzle that I'm passionate about solving. I believe that programming is a great way to help improve the lives of people around the world.
 
 My journey started in high school where I started grooming my love for programming. As my first accomplishment, I’ve built a digital library management software for the school I was studying in. At that point, I’ve figured out what I’m passionate about, and ever since I have been happily expanding my role as a software engineer. Today I a Full-Stack Javascript & React Developer @ [Future Forward](https://futureforward.nl/).
