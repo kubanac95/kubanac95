@@ -1,5 +1,13 @@
 # Hi there, 👋 I'm `Aleksandar Nikolić`
 
+First and foremost, I love coding. I have been obsessed with the idea of using software to solve real-world problems. Software engineering is a never-ending puzzle that I'm passionate about solving. I believe that programming is a great way to help improve the lives of people around the world.
+
+My journey started in high school where I started grooming my love for programming. As my first accomplishment, I’ve built a digital library management software for the school I was studying in. At that point, I’ve figured out what I’m passionate about, and ever since I have been happily expanding my role as a software engineer. Today I a Full-Stack Javascript & React Developer @ Future Forward.
+
+Even after working hours, I tend to improve my skills by trying out new technologies and programming languages. So far I’ve mastered React, React Native, Firebase, GraphQL, MongoDB, Typescript, Node.js, and more but that is not the end of it. I’m still eager to learn and I’m actively improving my skills in CI/CD, SQL, Next.js, Unit & E2E Testing!
+
+## :bar_chart: GitHub Stats
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kubanac95)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
