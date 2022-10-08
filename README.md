@@ -1,6 +1,5 @@
-### Hi there! 👋
+# Hi there, 👋 I'm `Aleksandar Nikolić`
 
-3000
 
 https://stackoverflow.com/users/7784769/aleksandar-nikolic
 
