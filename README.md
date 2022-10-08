@@ -1,8 +1,5 @@
 # Hi there, 👋 I'm `Aleksandar Nikolić`
 
-
-https://stackoverflow.com/users/7784769/aleksandar-nikolic
-
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kubanac95)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,6 +10,17 @@ https://stackoverflow.com/users/7784769/aleksandar-nikolic
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=kubanac95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/>
 
   <img style="margin-bottom: 50px;" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubanac95&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=319"/>
+
+<div>
+
+## :mailbox: Contact
+<div align='left'>
+
+  I would be glad to hear from you. Please feel free to contact me using one of the methods below.
+
+  - [LinkedIn](https://www.linkedin.com/in/a-nikolic/)
+  - [Stack Overflow](https://stackoverflow.com/users/7784769/aleksandar-nikolic)
+  - [Email](mailto:aleksandar.nikolic.01@outlook.com)
 
 <div>
 
