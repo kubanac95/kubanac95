@@ -3,8 +3,10 @@
 
 https://stackoverflow.com/users/7784769/aleksandar-nikolic
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kubanac95)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <div align="center">
 
